@@ -10,12 +10,12 @@ code step:
 
 
 
-code step relationship: 
-                    1.dao
-2.mapper                             4.service
-3.XXmapper.xml
-                 5.serviceimpl
-                 6.controller
+code step relationship: <br>
+                    1.dao<br>
+2.mapper                             4.service<br>
+3.XXmapper.xml<br>
+                 5.serviceimpl<br>
+                 6.controller<br>
 
 
 
